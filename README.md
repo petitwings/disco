@@ -1,2 +1,4 @@
 # disco
 debot
+/r
+ディスコでbot
